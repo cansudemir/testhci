@@ -5,15 +5,14 @@
   "members": [
     {
       "name": "Koordinate 1",
-      "powers": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "coordinates": [
+          "13.1519125314",
+          "47.8201685973"
       ]
     },
     {
       "name": "Koordinate 2",
-      "powers": [
+      "coordinates": [
         "Million tonne punch",
         "Damage resistance",
         "Superhuman reflexes"
@@ -21,7 +20,7 @@
     },
     {
       "name": "Koordinate 3",
-      "powers": [
+      "coordinates": [
         "Immortality",
         "Heat Immunity",
         "Inferno",
