@@ -1,26 +1,26 @@
 {
-  "squadName": "Digibus Test Koordinaten",
+  "projectName": "Digibus Test Koordinaten",
   "homeTown": "Koppl",
   "formed": 2020,
   "route": [
     {
       "name": "Koordinate 0",
       "coordinates": [
-          "13.1519125314",
+          "13.1519125314" ,
           "47.8201685973"
       ]
     },
     {
       "name": "Koordinate 1",
       "coordinates": [
-          "13.151654",
+          "13.151654" ,
           "47.819366"
       ]
     },
     {
       "name": "Koordinate 2",
       "coordinates": [
-          "13.151984",
+          "13.151984" ,
           "47.818293"
       ]
     },
