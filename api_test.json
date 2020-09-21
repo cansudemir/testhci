@@ -5,8 +5,6 @@
   "members": [
     {
       "name": "Koordinate 1",
-      "age": 29,
-      "secretIdentity": "Dan Jukes",
       "powers": [
         "Radiation resistance",
         "Turning tiny",
@@ -15,8 +13,6 @@
     },
     {
       "name": "Koordinate 2",
-      "age": 39,
-      "secretIdentity": "Jane Wilson",
       "powers": [
         "Million tonne punch",
         "Damage resistance",
@@ -25,8 +21,6 @@
     },
     {
       "name": "Koordinate 3",
-      "age": 1000000,
-      "secretIdentity": "Unknown",
       "powers": [
         "Immortality",
         "Heat Immunity",
