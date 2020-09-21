@@ -2,7 +2,7 @@
   "squadName": "Digibus Test Koordinaten",
   "homeTown": "Koppl",
   "formed": 2020,
-  "members": [
+  "route": [
     {
       "name": "Koordinate 0",
       "coordinates": [
