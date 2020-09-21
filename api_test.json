@@ -4,28 +4,94 @@
   "formed": 2020,
   "members": [
     {
-      "name": "Koordinate 1",
+      "name": "Koordinate 0",
       "coordinates": [
           "13.1519125314",
           "47.8201685973"
       ]
     },
     {
+      "name": "Koordinate 1",
+      "coordinates": [
+          "0": "13.151654",
+          "1": "47.819366"
+      ]
+    },
+    {
       "name": "Koordinate 2",
       "coordinates": [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+          "0": "13.151984",
+          "1": "47.818293"
       ]
     },
     {
       "name": "Koordinate 3",
       "coordinates": [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+          "0": "13.151984",
+          "1": "47.818293"
+      ]
+    },  
+    {
+      "name": "Koordinate 4",
+      "coordinates": [
+          "0": "13.1531052478",
+          "1": "47.8165209164"
+      ]
+    }, 
+    {
+      "name": "Koordinate 5",
+      "coordinates": [
+          "0": "13.153733",
+          "1": "47.815024"
+      ]
+    }, 
+    {
+      "name": "Koordinate 6",
+      "coordinates": [
+          "0": "13.153763",
+          "1": "47.813312"
+      ]
+    },
+    {
+      "name": "Koordinate 7",
+      "coordinates": [
+          "0": "13.153942",
+          "1": "47.812110"
+      ]
+    },
+    {
+      "name": "Koordinate 8",
+      "coordinates": [
+          "0": "13.1546980199",
+          "1": "47.8108714844"
+      ]
+    },
+    {
+      "name": "Koordinate 9",
+      "coordinates": [
+          "0": "13.154766",
+          "1": "47.810516"
+      ]
+    },
+    {
+      "name": "Koordinate 10",
+      "coordinates": [
+          "0": "13.155449",
+          "1": "47.809711"
+      ]
+    },
+    {
+      "name": "Koordinate 11",
+      "coordinates": [
+          "0": "13.156120",
+          "1": "47.809196"
+      ]
+    },
+    {
+      "name": "Koordinate 12",
+      "coordinates": [
+          "0": "13.1564954428",
+          "1": "47.8089731278"
       ]
     }
   ]
