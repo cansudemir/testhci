@@ -4,7 +4,7 @@
   "formed": 2020,
   "members": [
     {
-      "name": "Molecule Man",
+      "name": "Koordinate 1",
       "age": 29,
       "secretIdentity": "Dan Jukes",
       "powers": [
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "name": "Madame Uppercut",
+      "name": "Koordinate 2",
       "age": 39,
       "secretIdentity": "Jane Wilson",
       "powers": [
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "name": "Eternal Flame",
+      "name": "Koordinate 3",
       "age": 1000000,
       "secretIdentity": "Unknown",
       "powers": [
