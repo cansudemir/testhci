@@ -1,18 +1,28 @@
 {
-  "squadName": "Digibus Koordinaten Test",
-  "type": "point",
-  "formed": 2016,
-  "coordinates": [
+  "squadName": "Digibus Test Koordinaten",
+  "homeTown": "Koppl",
+  "formed": 2020,
+  "secretBase": "Super tower",
+  "active": true,
+  "members": [
     {
-      "null": [
-          "13.1519125314",
-          "47.8201685973"
+      "name": "Molecule Man",
+      "age": 29,
+      "secretIdentity": "Dan Jukes",
+      "powers": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
       ]
     },
     {
-      "one": [
-          "0": "13.151654",
-          "1": "47.819366"
+      "name": "Madame Uppercut",
+      "age": 39,
+      "secretIdentity": "Jane Wilson",
+      "powers": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
       ]
     },
     {
