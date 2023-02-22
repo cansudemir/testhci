@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "type": "header-general",
+        "content": "This is the first header content",
+    },
+    {
+        "id": 2,
+        "type": "header-search",
+        "content": "This is the second header content",
+    },
+    {
+        "id": 3,
+        "type": "header-profile",
+        "content": "This is the second header content",
+    },
+    {
+        "id": 4,
+        "type": "body-news",
+        "content": "This is the news content of body",
+    },
+    {
+        "id": 5,
+        "type": "body-shop",
+        "content": "This is the shop content of body",
+    },
+    {
+        "id": 6,
+        "type": "body-content",
+        "content": "This is the first body content",
+    },
+    {
+        "id": 7,
+        "type": "body-content",
+        "content": "This is the second body content",
+    },
+    {
+        "id": 8,
+        "type": "body-content",
+        "content": "This is the third body content",
+    }
+]
