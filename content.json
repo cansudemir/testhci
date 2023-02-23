@@ -1,0 +1,52 @@
+{
+    "header-modules": [
+        {
+            "type": "header-general",
+            "content": "This is the first header content"
+        },
+        {
+            "type": "header-search",
+            "content": "This is the second header content"
+        },
+        {
+            "type": "header-profile",
+            "content": "This is the second header content"
+        }
+    ],
+    "body-modules": [
+        {
+            "type": "body-news",
+            "content": "This is the news content of body"
+        },
+        {
+            "type": "body-shop",
+            "content": "This is the shop content of body"
+        },
+        {
+            "type": "body-content",
+            "content": "This is the first body content"
+        },
+        {
+            "type": "body-content",
+            "content": "This is the second body content"
+        },
+        {
+            "type": "body-content",
+            "content": "This is the third body content"
+        }
+    ],
+    "footer-modules": [
+        {
+            "type": "foooter-general",
+            "content": "This is the first header content"
+        },
+        {
+            "type": "footer-search",
+            "content": "This is the second header content"
+        },
+        {
+            "type": "footer-profile",
+            "content": "This is the second header content"
+        }
+    ]   
+}
